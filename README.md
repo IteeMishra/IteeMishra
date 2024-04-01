@@ -2,7 +2,8 @@
 
 ###
 
-<div align="center">
+<div align="left">
+  <h1>Skills and languages</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -25,6 +26,7 @@
 <br>
 <br>
 <div>
+  <h3>About me<h3>
   <ul>
     <li>👷 Currently pursuing B.Tech in Computer science and Engineering (2021-2025) from SRMCEM, Lucknow.</li>
     <li>🔭 Schooled from PCM with Computer Applications stream from Spring Dale College, ISC Board - 95.4%</li>
@@ -38,7 +40,7 @@
 ###
 
 <div align="left">
-  <h1>Skills and languages</h1>
+  <h1>Let's Connect </h1>
   <a href="https://www.instagram.com/iteemishra206?igsh=MWFrd3Q5aHV3Y2U5bw==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
