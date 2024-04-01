@@ -38,6 +38,7 @@
 ###
 
 <div align="left">
+  <h1>Skills and languages</h1>
   <a href="https://www.instagram.com/iteemishra206?igsh=MWFrd3Q5aHV3Y2U5bw==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
