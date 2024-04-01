@@ -21,6 +21,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
+<br> 
+<br>
+<br>
 <div>
   <ul>
     <li>👷 Currently pursuing B.Tech in Computer science and Engineering (2021-2025) from SRMCEM, Lucknow.</li>
