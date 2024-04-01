@@ -21,6 +21,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
+<div>
+  <ul>
+    <li>👷 Currently pursuing B.Tech in Computer science and Engineering (2021-2025) from SRMCEM, Lucknow.</li>
+    <li>🔭 Schooled from PCM with Computer Applications stream from Spring Dale College, ISC Board - 95.4%</li>
+    <li>💬 Ask me about CP/Html/CSS/Javascript/Django</li>
+    <li>🤔 I’m looking for help with how to excel in Competitive Programming</li>
+    <li>⚡ Fun fact: I like to think I'm funny, infused with a dash of zeal and unwavering determination.</li>
+    <li>📫 How to reach me iteemishra206@gmail.com</li>
+  </ul>
+</div>
 
 ###
 
