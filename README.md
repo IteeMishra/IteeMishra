@@ -3,7 +3,8 @@
 ###
 
 <div align="left">
-  <h1>Skills and languages</h1>
+  <h2 class="heading-element" dir="auto"><b><samp>Skills andLanguages</samp></b></h2>
+<!--   <h1>Skills and languages</h1> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -22,9 +23,7 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
-<br> 
-<br>
-<br>
+<hr>
 <div>
   <h3 class="heading-element" dir="auto"><b><samp>About Me</samp></b></h3>
 <!--   <h3>About me<h3> -->
@@ -37,7 +36,7 @@
     <li>📫 How to reach me <a href="iteemishra206@gmail.com">iteemishra206@gmail.com</a></li>
   </ul>
 </div>
-
+<br>
 ###
 
 <div align="left">
@@ -53,7 +52,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
+<br>
 
   <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto"><b><samp>Tools and Platform</samp></b></h3><a id="user-content-tools-and-platform" class="anchor" aria-label="Permalink: Tools and Platform" href="#tools-and-platform"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7beb6b983abd7404fef2f6f5720bb53e30dd9715395da3039e42381821c90192/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d3939393939393f7374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d726564"><img src="https://camo.githubusercontent.com/7beb6b983abd7404fef2f6f5720bb53e30dd9715395da3039e42381821c90192/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d3939393939393f7374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d726564" alt="Git" data-canonical-src="https://img.shields.io/badge/Git-999999?style=for-the-badge&amp;logo=Git&amp;logoColor=red" style="max-width: 100%;"></a>
