@@ -14,6 +14,7 @@
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="padding: 12px 12px 12px 12px;"/> </a> 
        <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
          <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" style="padding: 12px 12px 12px 12px;"/> </a>
+   <br>
           <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
              <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="padding: 12px 12px 12px 12px;"/> </a> 
              <a href="hexo.io/" target="_blank" rel="noreferrer"> 
@@ -23,7 +24,8 @@
                 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
                   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" style="padding: 12px 12px 12px 12px;"/> </a> 
                   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding: 12px 12px 12px 12px;"/> </a> 
+                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding: 12px 12px 12px 12px;"/> </a>
+            <br>
                      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="padding: 12px 12px 12px 12px;" /> </a>
                        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
